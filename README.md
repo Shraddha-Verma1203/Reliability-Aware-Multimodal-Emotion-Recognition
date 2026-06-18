@@ -14,8 +14,32 @@ A multimodal emotion recognition system that combines Text, Audio, and Facial Fe
 - Explainable Predictions
 - Streamlit Dashboard
 
+## Project Structure
+
+MER-Reliability-Fusion
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+│
+├── src
+│   ├── text_model.py
+│   ├── audio_model.py
+│   ├── video_model.py
+│   ├── reliability.py
+│   └── fusion.py
+│
+├── assets
+│
+├── notebooks
+│   └── dataset_analysis.ipynb
+│
+└── docs
+    ├── report.pdf
+    └── presentation.pdf
+
 ## Architecture
-(Add architecture diagram)
 
 ## Datasets
 - MELD
