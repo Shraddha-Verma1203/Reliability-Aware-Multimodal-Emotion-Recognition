@@ -53,5 +53,22 @@ Python, PyTorch, Transformers, OpenCV, Librosa, Streamlit
 
 ## Future Work
 
+
+
+## Project Roadmap
+
+* [x] Research problem formulation
+* [x] Dataset selection (MELD, RAVDESS)
+* [x] System architecture design
+* [x] Reliability-aware fusion framework
+* [ ] Model optimization and evaluation
+* [ ] Cross-dataset testing
+* [ ] Research paper submission
+* [ ] Complete GitHub documentation
+
+### Current Status
+
+This project is being developed as part of a Summer Research Internship at NIT Goa, focusing on reliability-aware multimodal emotion recognition using text, audio, and video modalities.
+
 ## Author
 Shraddha Verma
