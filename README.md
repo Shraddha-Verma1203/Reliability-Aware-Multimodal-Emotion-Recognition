@@ -1,6 +1,6 @@
 # 🧠 Reliability-Aware Multimodal Emotion Recognition
 
-> **AI Research Prototype | Summer Research Internship @ NIT Goa**
+> **Research Prototype developed during my Summer Research Internship at NIT Goa**
 
 A research-oriented **Multimodal Emotion Recognition (MER)** system that combines **Text, Audio, and Facial Expressions** using **Reliability-Aware Adaptive Fusion** to improve prediction robustness, handle conflicting modalities, and provide explainable emotion predictions.
 
@@ -25,6 +25,31 @@ A research-oriented **Multimodal Emotion Recognition (MER)** system that combine
 - 🌐 Live interactive Streamlit web application
 - 🤗 Hugging Face model integration
 
+## 🔄 Workflow
+
+```text
+User Input
+      │
+      ▼
+Text + Audio + Video Processing
+      │
+      ▼
+Feature Extraction
+(BERT • Wav2Vec2 • CNN)
+      │
+      ▼
+Reliability Estimation
+      │
+      ▼
+Adaptive Weighted Fusion
+      │
+      ▼
+Conflict Detection
+      │
+      ▼
+Explainable Emotion Prediction
+```
+
 ## 📷 Application Preview
 
 
@@ -36,14 +61,15 @@ A research-oriented **Multimodal Emotion Recognition (MER)** system that combine
 
 | Category | Technologies |
 |----------|--------------|
-| Programming | Python |
-| Web Framework | Streamlit |
+| Programming | Python 3.12 |
+| Web App | Streamlit |
 | Deep Learning | PyTorch |
-| NLP | BERT, Transformers |
+| NLP | BERT, Hugging Face Transformers |
 | Speech Processing | Wav2Vec2 |
 | Computer Vision | OpenCV, CNN |
-| Machine Learning | Scikit-learn |
+| ML Utilities| Scikit-learn |
 | Data Processing | Pandas, NumPy |
+| Version Control | Git,Github |
 
 ## 🎓 Research Contribution
 
@@ -56,6 +82,16 @@ This project was developed during my **Summer Research Internship at NIT Goa** a
 - Implemented Cross-modal Conflict Detection
 - Added Explainability Module
 - Improved Missing Modality Handling
+
+## 🎯 Project Outcomes
+
+- ✅ Interactive Streamlit web application
+- ✅ End-to-end multimodal inference pipeline
+- ✅ Reliability-aware adaptive fusion
+- ✅ Explainable AI dashboard
+- ✅ Cross-modal conflict detection
+- ✅ Supports Text, Audio and Video inputs
+- ✅ Successfully deployed on Streamlit Community Cloud
 
 ## Project Goal
 
@@ -205,3 +241,13 @@ text features     speech features     facial/visual features
 - **Fusion: Reliability-aware adaptive weighted fusion**
   Final prediction uses reliability-weighted modality scores.
 
+## 👩‍💻 Author
+
+**Shraddha Verma**
+
+B.Tech Computer Science Engineering
+
+Summer Research Intern — NIT Goa
+
+- LinkedIn: https://www.linkedin.com/in/shraddha-verma-52175031b/
+- GitHub: https://github.com/Shraddha-Verma1203
