@@ -1,6 +1,6 @@
 # 🧠 Reliability-Aware Multimodal Emotion Recognition
 
-> **Research Prototype developed during my Summer Research Internship at NIT Goa**
+> ****Research Prototype developed during my Summer Research Internship at NIT Goa****
 
 A research-oriented **Multimodal Emotion Recognition (MER)** system that combines **Text, Audio, and Facial Expressions** using **Reliability-Aware Adaptive Fusion** to improve prediction robustness, handle conflicting modalities, and provide explainable emotion predictions.
 
