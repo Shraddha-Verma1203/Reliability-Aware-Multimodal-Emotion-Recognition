@@ -1,26 +1,61 @@
 # 🧠 Reliability-Aware Multimodal Emotion Recognition
 
+> **AI Research Prototype | Summer Research Internship @ NIT Goa**
+
+A research-oriented **Multimodal Emotion Recognition (MER)** system that combines **Text, Audio, and Facial Expressions** using **Reliability-Aware Adaptive Fusion** to improve prediction robustness, handle conflicting modalities, and provide explainable emotion predictions.
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-Live-red?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-
-
-> **Research prototype developed during my Summer Research Internship at NIT Goa, implementing Reliability-Aware Multimodal Emotion Recognition using text, audio and facial expression fusion.**
+![Streamlit](https://img.shields.io/badge/Streamlit-Live-red?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=flat-square)
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 [![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://reliability-aware-mer.streamlit.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Shraddha-Verma1203/Reliability-Aware-Multimodal-Emotion-Recognition)
 
 ---
+## 📌 Project Highlights
 
-## 🌐 Live Demo
+- 🎓 Developed during **Summer Research Internship at NIT Goa**
+- 🧠 Reliability-Aware Adaptive Fusion for Multimodal Emotion Recognition
+- 🎤 Supports **Text, Audio & Facial Expression** analysis
+- ⚖️ Dynamic reliability scoring for each modality
+- 🔍 Explainable AI with confidence visualization
+- ⚠️ Cross-modal conflict detection
+- 🌐 Live interactive Streamlit web application
+- 🤗 Hugging Face model integration
 
-👉 **Launch the application:**
+## 📷 Application Preview
 
-https://reliability-aware-mer.streamlit.app
----
 
-Mentor-ready research prototype for NIT Goa.
+
+
+
+
+## 🛠 Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python |
+| Web Framework | Streamlit |
+| Deep Learning | PyTorch |
+| NLP | BERT, Transformers |
+| Speech Processing | Wav2Vec2 |
+| Computer Vision | OpenCV, CNN |
+| Machine Learning | Scikit-learn |
+| Data Processing | Pandas, NumPy |
+
+## 🎓 Research Contribution
+
+This project was developed during my **Summer Research Internship at NIT Goa** as a research prototype for **Reliability-Aware Multimodal Emotion Recognition**.
+
+### Key Contributions
+
+- Proposed Reliability-Aware Adaptive Fusion
+- Designed Dynamic Modality Weighting
+- Implemented Cross-modal Conflict Detection
+- Added Explainability Module
+- Improved Missing Modality Handling
 
 ## Project Goal
 
@@ -170,90 +205,3 @@ text features     speech features     facial/visual features
 - **Fusion: Reliability-aware adaptive weighted fusion**
   Final prediction uses reliability-weighted modality scores.
 
-## How to Run
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
-streamlit run app.py
-```
-
-The app runs at:
-
-```text
-http://localhost:8501
-```
-
-## Testing
-
-```powershell
-.\.venv\Scripts\python.exe -m pytest tests
-.\.venv\Scripts\python.exe -m compileall src app tests app.py
-```
-
-## Sample Inputs
-
-- Happy: `I am really excited and proud of the progress we made today!`
-- Sad: `I feel lonely and disappointed because the result did not work.`
-- Mixed/contrastive: `I am happy but feeling depressed`
-- Angry: `This is unfair and I am extremely frustrated about what happened.`
-- Fear: `I am nervous and worried that something unsafe might happen.`
-- Surprise: `Wow, I did not expect this result at all!`
-- Disgust: `That was gross, awful, and completely unacceptable.`
-- Neutral: `The meeting is scheduled for tomorrow and the report is ready.`
-
-## Video and Audio Upload Behavior
-
-- Image uploads are processed as single facial/visual frames.
-- Video uploads are not opened as images. The app samples frames with OpenCV,
-  detects faces, predicts emotion per detected face frame, and aggregates the
-  frame probabilities.
-- If a video contains audio and no separate audio file is uploaded, the app
-  extracts a temporary WAV file from the video and sends it to the audio emotion
-  model.
-- If a model fails or a face/audio stream cannot be decoded, the output table
-  marks the branch as unavailable or fallback instead of silently pretending it
-  was a real model result.
-
-## Evaluation Data Format
-
-For MELD-style evaluation, create a CSV manifest:
-
-```csv
-label,text,audio_path,video_path
-happy,"I am excited about this result",samples/happy.wav,samples/happy_frame.jpg
-sad,"I feel low today",samples/sad.wav,samples/sad_frame.jpg
-```
-
-Run:
-
-```powershell
-python -m src.evaluate --manifest data/eval_manifest.csv --output results/evaluation.json
-```
-
-## Repository Structure
-
-```text
-app.py
-app/
-  streamlit_app.py
-src/
-  common.py
-  text_model.py
-  audio_model.py
-  face_model.py
-  reliability.py
-  fusion.py
-  conflict_detector.py
-  explainability.py
-  evaluation.py
-  evaluate.py
-tests/
-  test_imports.py
-  test_fusion.py
-  test_research_modules.py
-requirements.txt
-report.md
-```
