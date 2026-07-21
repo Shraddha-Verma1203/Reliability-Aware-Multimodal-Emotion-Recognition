@@ -1,17 +1,21 @@
 # 🧠 Reliability-Aware Multimodal Emotion Recognition
 
-> **Research project developed during my Summer Research Internship at NIT Goa.**
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live-red?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-orange?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Open%20App-success?style=for-the-badge)](https://reliability-aware-mer.streamlit.app)
+
+> **Research prototype developed during my Summer Research Internship at NIT Goa, implementing Reliability-Aware Multimodal Emotion Recognition using text, audio and facial expression fusion.**
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://reliability-aware-mer.streamlit.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Shraddha-Verma1203/Reliability-Aware-Multimodal-Emotion-Recognition)
 
 ---
 
 ## 🌐 Live Demo
 
-🚀 **Try the application here:**
-
-**https://reliability-aware-mer.streamlit.app**
+Click the **Live Demo** button above to explore the application.
 
 ---
 
