@@ -15,8 +15,9 @@
 
 ## 🌐 Live Demo
 
-Click the **Live Demo** button above to explore the application.
+👉 **Launch the application:**
 
+https://reliability-aware-mer.streamlit.app
 ---
 
 Mentor-ready research prototype for NIT Goa.
