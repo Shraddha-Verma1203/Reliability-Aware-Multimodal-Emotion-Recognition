@@ -55,7 +55,7 @@ Explainable Emotion Prediction
 ### 🏠 Home Page
 
 <p align="center">
-  <img src="assets/screenshots/home_page.jpeg" width="900">
+<img src="assets/screenshots/home_page.jpeg" width="900">
 </p>
 
 ---
@@ -63,7 +63,7 @@ Explainable Emotion Prediction
 ### 📥 Input & Modalities
 
 <p align="center">
-  <img src="assets/screenshots/input_&_modalities.jpeg" width="900">
+<img src="assets/screenshots/input_&_modalities.jpeg" width="900">
 </p>
 
 ---
@@ -71,7 +71,7 @@ Explainable Emotion Prediction
 ### 🎭 Emotion Prediction & Reliability Visualization
 
 <p align="center">
-  <img src="assets/screenshots/Modalities_prediction_&_Reliability_Visualization.jpeg" width="900">
+<img src="assets/screenshots/Modalities_prediction_&_Reliability_Visualization.jpeg" width="900">
 </p>
 
 ---
@@ -79,15 +79,15 @@ Explainable Emotion Prediction
 ### 📊 Reliability Visualization
 
 <p align="center">
-  <img src="assets/screenshots/Reliability_visualization.jpeg" width="900">
+<img src="assets/screenshots/Reliability_visualization.jpeg" width="900">
 </p>
 
 ---
 
-### ⚠️ Conflict Detection
+### ⚠️ Emotion Conflict Detector
 
 <p align="center">
-  <img src="assets/screenshots/Emotion_Conflict_detector.jpeg" width="900">
+<img src="assets/screenshots/Emotion_Conflict_detector.jpeg" width="900">
 </p>
 
 ---
@@ -95,7 +95,7 @@ Explainable Emotion Prediction
 ### 💡 Explainability Panel
 
 <p align="center">
-  <img src="assets/screenshots/Explainability_panel.jpeg" width="900">
+<img src="assets/screenshots/Explainability_panel.jpeg" width="900">
 </p>
 
 ---
@@ -103,19 +103,23 @@ Explainable Emotion Prediction
 ### 🏆 Final Weighted Fusion Result
 
 <p align="center">
-  <img src="assets/screenshots/Final_weighted_fusion_result.jpeg" width="900">
+<img src="assets/screenshots/Final_weighted_fusion_result.jpeg" width="900">
 </p>
 
 ---
 
-### ✅ Final Emotion Prediction
+### ✅ Final Emotion Prediction (Part 1)
 
 <p align="center">
-  <img src="assets/screenshots/Final_result.1.jpeg" width="900">
+<img src="assets/screenshots/Final_result_1.jpeg" width="900">
 </p>
 
+---
+
+### ✅ Final Emotion Prediction (Part 2)
+
 <p align="center">
-  <img src="assets/screenshots/Final_Result.2.jpeg" width="900">
+<img src="assets/screenshots/Final_result_2.jpeg" width="900">
 </p>
 
 ---
@@ -123,7 +127,7 @@ Explainable Emotion Prediction
 ### 📈 Research Metrics Dashboard
 
 <p align="center">
-  <img src="assets/screenshots/Research_metrics_page.jpeg" width="900">
+<img src="assets/screenshots/Research_metrics_page.jpeg" width="900">
 </p>
 
 ---
@@ -131,7 +135,7 @@ Explainable Emotion Prediction
 ### 🧪 Model Diagnostics
 
 <p align="center">
-  <img src="assets/screenshots/Model_diagnostics.jpeg" width="900">
+<img src="assets/screenshots/Model_diagnostics.jpeg" width="900">
 </p>
 
 ---
@@ -139,8 +143,9 @@ Explainable Emotion Prediction
 ### 📝 Additional Fusion Notes
 
 <p align="center">
-  <img src="assets/screenshots/Additional_fusion_notes.jpeg" width="900">
+<img src="assets/screenshots/Additional_fusion_notes.jpeg" width="900">
 </p>
+
 
 ## 🛠 Tech Stack
 
