@@ -50,102 +50,151 @@ Conflict Detection
 Explainable Emotion Prediction
 ```
 
-## 📷 Application Preview
+# 📷 Application Preview
 
-### 🏠 Home Page
+## 📌 Project Overview
+
+### Research Workflow & Timeline
 
 <p align="center">
-<img src="assets/screenshots/home_page.jpeg" width="900">
+<img src="assets/screenshots/algo_and_problem_statement.jpeg" width="750">
+</p>
+
+<p align="center">
+<img src="assets/screenshots/overview_and_pipeline.jpeg" width="750">
+</p>
+
+<p align="center">
+<img src="assets/screenshots/Timeline.jpeg" width="750">
 </p>
 
 ---
 
-### 📥 Input & Modalities
+## 🏠 Application Interface
+
+### Home Page
 
 <p align="center">
-<img src="assets/screenshots/input_&_modalities.jpeg" width="900">
+<img src="assets/screenshots/home_page.jpeg" width="800">
+</p>
+
+### Input Modalities
+
+<p align="center">
+<img src="assets/screenshots/input_and_modalities.jpeg" width="800">
+</p>
+
+<p align="center">
+<img src="assets/screenshots/Audio_Video_Text_modalities.jpeg" width="800">
+</p>
+
+<p align="center">
+<img src="assets/screenshots/Modalities.jpeg" width="800">
 </p>
 
 ---
 
-### 🎭 Emotion Prediction & Reliability Visualization
+## 🧠 Emotion Recognition Pipeline
+
+### Modality Prediction & Reliability
 
 <p align="center">
-<img src="assets/screenshots/Modalities_prediction_&_Reliability_Visualization.jpeg" width="900">
+<img src="assets/screenshots/Modalities_prediction_&_Reliability_Visualization.jpeg" width="800">
+</p>
+
+### Reliability Visualization
+
+<p align="center">
+<img src="assets/screenshots/Reliability_visualization.jpeg" width="800">
+</p>
+
+### Emotion Conflict Detection
+
+<p align="center">
+<img src="assets/screenshots/Emotion_Conflict_detector.jpeg" width="800">
+</p>
+
+### Explainability Panel
+
+<p align="center">
+<img src="assets/screenshots/Explainability_panel.jpeg" width="800">
+</p>
+
+### Final Weighted Fusion
+
+<p align="center">
+<img src="assets/screenshots/Final_weighted_fusion_result.jpeg" width="800">
+</p>
+
+### Final Emotion Prediction
+
+<p align="center">
+<img src="assets/screenshots/Final_result_1.jpeg" width="800">
+</p>
+
+<p align="center">
+<img src="assets/screenshots/Final_Result_2.jpeg" width="800">
 </p>
 
 ---
 
-### 📊 Reliability Visualization
+## 📊 Research Dashboard
+
+### Research Metrics
 
 <p align="center">
-<img src="assets/screenshots/Reliability_visualization.jpeg" width="900">
+<img src="assets/screenshots/Research_metrics_page.jpeg" width="800">
+</p>
+
+### Model Diagnostics
+
+<p align="center">
+<img src="assets/screenshots/Model_diagnostics.jpeg" width="800">
 </p>
 
 ---
 
-### ⚠️ Emotion Conflict Detector
+## 🧪 Testing & Evaluation
+
+### Test Page
 
 <p align="center">
-<img src="assets/screenshots/Emotion_Conflict_detector.jpeg" width="900">
+<img src="assets/screenshots/testpage.jpeg" width="800">
+</p>
+
+### Test Page 2
+
+<p align="center">
+<img src="assets/screenshots/testpage2.jpeg" width="800">
+</p>
+
+### Test Page 3
+
+<p align="center">
+<img src="assets/screenshots/testpage3.jpeg" width="800">
+</p>
+
+### Additional Test Page
+
+<p align="center">
+<img src="assets/screenshots/Test_page.1.jpeg" width="800">
 </p>
 
 ---
 
-### 💡 Explainability Panel
+## ⚙️ Performance Analysis
+
+### Prediction Pipeline Time
 
 <p align="center">
-<img src="assets/screenshots/Explainability_panel.jpeg" width="900">
+<img src="assets/screenshots/time_taken_by_prediction_pipeline.jpeg" width="800">
 </p>
 
----
-
-### 🏆 Final Weighted Fusion Result
+### Fusion Notes
 
 <p align="center">
-<img src="assets/screenshots/Final_weighted_fusion_result.jpeg" width="900">
+<img src="assets/screenshots/Additional_fusion_notes.jpeg" width="800">
 </p>
-
----
-
-### ✅ Final Emotion Prediction (Part 1)
-
-<p align="center">
-<img src="assets/screenshots/Final_result_1.jpeg" width="900">
-</p>
-
----
-
-### ✅ Final Emotion Prediction (Part 2)
-
-<p align="center">
-<img src="assets/screenshots/Final_result_2.jpeg" width="900">
-</p>
-
----
-
-### 📈 Research Metrics Dashboard
-
-<p align="center">
-<img src="assets/screenshots/Research_metrics_page.jpeg" width="900">
-</p>
-
----
-
-### 🧪 Model Diagnostics
-
-<p align="center">
-<img src="assets/screenshots/Model_diagnostics.jpeg" width="900">
-</p>
-
----
-
-### 📝 Additional Fusion Notes
-
-<p align="center">
-<img src="assets/screenshots/Additional_fusion_notes.jpeg" width="900">
-</p>
-
 
 ## 🛠 Tech Stack
 
