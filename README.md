@@ -123,7 +123,7 @@ Explainable Emotion Prediction
 ### Final Weighted Fusion
 
 <p align="center">
-<img src="assets/screenshots/Final_weighted_fusion_result.jpeg" width="800">
+<img src="assets/screenshots/final_weighted_fusion_result.jpeg" width="800">
 </p>
 
 ### Final Emotion Prediction
