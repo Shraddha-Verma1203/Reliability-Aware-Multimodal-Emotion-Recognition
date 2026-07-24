@@ -1,9 +1,17 @@
 # 🧠 Reliability-Aware Multimodal Emotion Recognition
 
-> ****Research Prototype developed during my Summer Research Internship at NIT Goa****
+> **Research Prototype developed during my Summer Research Internship at NIT Goa**
+
+<p align="center">
+  <img src="assets/banner.png" alt="Reliability-Aware Multimodal Emotion Recognition Banner" width="100%">
+</p>
+
+<p align="center">
+  <strong>🧠 Reliability-Aware Multimodal Emotion Recognition</strong><br>
+  <em>Research Prototype • Summer Research Internship @ NIT Goa</em>
+</p>
 
 A research-oriented **Multimodal Emotion Recognition (MER)** system that combines **Text, Audio, and Facial Expressions** using **Reliability-Aware Adaptive Fusion** to improve prediction robustness, handle conflicting modalities, and provide explainable emotion predictions.
-
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-orange?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Live-red?style=flat-square)
@@ -393,7 +401,31 @@ text features     speech features     facial/visual features
 - **Fusion: Reliability-aware adaptive weighted fusion**
   Final prediction uses reliability-weighted modality scores.
 
-## 👩‍💻 Author
+## 🚀 Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Shraddha-Verma1203/Reliability-Aware-Multimodal-Emotion-Recognition.git
+```
+
+### Navigate to the project
+
+```bash
+cd Reliability-Aware-Multimodal-Emotion-Recognition
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Launch the application
+
+```bash
+streamlit run app.py
+```
 
 ## 👩‍💻 Author
 
