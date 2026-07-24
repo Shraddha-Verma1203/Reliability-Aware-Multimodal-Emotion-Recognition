@@ -143,7 +143,7 @@ Explainable Emotion Prediction
 ### Research Metrics
 
 <p align="center">
-<img src="assets/screenshots/Research_metrics_page.jpeg" width="800">
+<img src="assets/screenshots/research_metrics_page.jpeg" width="800">
 </p>
 
 ### Model Diagnostics
@@ -174,13 +174,6 @@ Explainable Emotion Prediction
 <img src="assets/screenshots/testpage3.jpeg" width="800">
 </p>
 
-### Additional Test Page
-
-<p align="center">
-<img src="assets/screenshots/Test_page.1.jpeg" width="800">
-</p>
-
----
 
 ## ⚙️ Performance Analysis
 
