@@ -61,7 +61,7 @@ Explainable Emotion Prediction
 </p>
 
 <p align="center">
-<img src="assets/screenshots/overview_and_pipeline.jpeg" width="750">
+<img src="assets/screenshots/overview__and_pipeline.jpeg" width="750">
 </p>
 
 <p align="center">
