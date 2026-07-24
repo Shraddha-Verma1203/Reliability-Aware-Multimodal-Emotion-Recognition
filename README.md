@@ -14,6 +14,26 @@ A research-oriented **Multimodal Emotion Recognition (MER)** system that combine
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Shraddha-Verma1203/Reliability-Aware-Multimodal-Emotion-Recognition)
 
 ---
+## 📑 Table of Contents
+
+- [Project Highlights](#-project-highlights)
+- [Workflow](#-workflow)
+- [Application Preview](#-application-preview)
+- [Tech Stack](#-tech-stack)
+- [Research Contribution](#-research-contribution)
+- [Project Outcomes](#-project-outcomes)
+- [Project Goal](#project-goal)
+- [Research Problem Statement](#research-problem-statement)
+- [System Architecture](#system-architecture)
+- [Proposed Research Architecture](#proposed-research-architecture)
+- [Current Working Prototype Pipeline](#current-working-prototype-pipeline)
+- [Implemented Research Features](#implemented-research-features)
+- [Algorithms Used](#algorithms-used)
+- [Installation](#installation)
+- [Project Structure](#project-structure)
+- [Future Work](#future-work)
+- [Author](#-author)
+
 ## 📌 Project Highlights
 
 - 🎓 Developed during **Summer Research Internship at NIT Goa**
@@ -375,11 +395,17 @@ text features     speech features     facial/visual features
 
 ## 👩‍💻 Author
 
+## 👩‍💻 Author
+
 **Shraddha Verma**
 
-B.Tech Computer Science Engineering
+🎓 B.Tech Computer Science Engineering
 
-Summer Research Intern — NIT Goa
+🏛 Summer Research Intern — NIT Goa
 
-- LinkedIn: https://www.linkedin.com/in/shraddha-verma-52175031b/
-- GitHub: https://github.com/Shraddha-Verma1203
+🔗 **LinkedIn:**  
+ https://www.linkedin.com/in/shraddha-verma-52175031b/
+
+
+💻 **GitHub:**  
+https://github.com/Shraddha-Verma1203
